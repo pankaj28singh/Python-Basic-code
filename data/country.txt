@@ -1,0 +1,4 @@
+india,delhi
+pakistan,islamabad
+australia,canberra
+srilanka,coloumbo

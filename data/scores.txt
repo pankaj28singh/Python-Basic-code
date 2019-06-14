@@ -1,0 +1,4 @@
+ajay,780
+trushan,890
+rahul,600
+neha,450
